@@ -67,3 +67,4 @@ Here's the output from my docker-compose logs after I curled the `whoami` applic
     reverse-proxy_1  | 172.26.0.1 - - [01/May/2019:19:16:34 +0000] "GET /favicon.ico HTTP/1.1" 200 647 "http://whoami.docker.localhost/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36" 10 "Host-whoami-docker-localhost-1" "http://172.26.0.2:80" 1ms
     ```
     
+# docker-compose-strapi
